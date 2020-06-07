@@ -1,2 +1,1 @@
 # NLW-Ecoleta
-# NLW-Ecoleta
