@@ -9,4 +9,4 @@ Exceutar tais comendos no terminal:
 <li>npm start</li>
 </ul>  
 
-Executado os 4 procedimentos, é só entrar em localhost:350, através do seu navegador, para que a aplicação funcione perfeitamente.
+Executado os 4 procedimentos, é só entrar em <strong>localhost:350</strong>, através do seu navegador, para que a aplicação funcione perfeitamente.
