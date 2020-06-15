@@ -1,8 +1,6 @@
 <h1># NLW-Ecoleta</h1>
-![Sem título2](https://user-images.githubusercontent.com/65800961/84694162-20f51100-af1f-11ea-816f-86cafbcde9f7.png)
-![Sem título2](https://user-images.githubusercontent.com/65800961/84694162-20f51100-af1f-11ea-816f-86cafbcde9f7.png)
-![Sem título3](https://user-images.githubusercontent.com/65800961/84694216-3702d180-af1f-11ea-9a65-4ce28b1e5966.png)
-![Sem título4](https://user-images.githubusercontent.com/65800961/84694239-3e29df80-af1f-11ea-9785-d122614b4866.png)
+
+![2020 06 15-16 02](https://user-images.githubusercontent.com/65800961/84695858-e50f7b00-af21-11ea-8968-3cee5f55ad81.gif)
 
 <h3>Para poder funcionar o Projeto Ecoleta depois de cloná-lo.</h3>
 
